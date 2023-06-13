@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t1 | heaad
+ls -t --color = never | heaad -n 10
